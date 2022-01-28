@@ -1,27 +1,23 @@
-# Next.js + Tailwind CSS Example
+# Next.js + Tailwind CSS + React.js
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# Description ----------------------------------
 
-## Preview
+This Project is a modern Blog website where we can write posts, Articles, and any type of content.
+Using GraphQL queries and GraphCMS, make it mush easier to write, read, and publish content.
+Also using Next.js APIs to handle the back-end side and facilate data fetching.
+Plus there can be a lot of authors, and also the comment submission is so responsive and give right to authors to either 
+authorize or delete the comment.
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+# Tools used -------------------------------------
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+* Next.js
+* React.js
+* Tailwind CSS
+* GraphQL
+* GraphCMS
 
-## Deploy your own
+# License ------------------------------------------------
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+The project is free for any Kind of use, there is such things that you should do 
+before use it (Your own GraphCMS account) also the styling is up to you.
+i'll be thankful if you give me credits for any reuse Enjoyyyy .   
